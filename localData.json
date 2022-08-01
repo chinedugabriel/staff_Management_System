@@ -1,0 +1,71 @@
+[{
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "img/male.png",
+    "email": "john.doe@example.com"
+},
+{
+    "username": "jane",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "gender": "Female",
+    "profileURL": "img/female.png",
+    "email": "jane.doe@example.com"
+},
+{
+    "username": "judith",
+    "firstName": "Judith",
+    "lastName": "Hope",
+    "gender": "Female",
+    "profileURL": "img/female.png",
+    "email": "judith.doe@example.com"
+},
+{
+    "username": "frank",
+    "firstName": "Frank",
+    "lastName": "Duru",
+    "gender": "male",
+    "profileURL": "img/male.png",
+    "email": "frank.doe@example.com"
+},
+{
+    "username": "ruth",
+    "firstName": "Ruth",
+    "lastName": "Iwang",
+    "gender": "Female",
+    "profileURL": "img/female.png",
+    "email": "ruth.doe@example.com"
+},
+{
+    "username": "frank",
+    "firstName": "Frank",
+    "lastName": "Duru",
+    "gender": "male",
+    "profileURL": "img/male.png",
+    "email": "frank.doe@example.com"
+},{
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "img/male.png",
+    "email": "john.doe@example.com"
+},
+{
+    "username": "jane",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "gender": "Female",
+    "profileURL": "img/female.png",
+    "email": "jane.doe@example.com"
+},{
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "img/male.png",
+    "email": "john.doe@example.com"
+}
+]
